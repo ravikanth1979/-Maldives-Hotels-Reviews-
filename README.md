@@ -1,5 +1,4 @@
-3.	Text Mining and Sentiment Analysis for
-Maldives Hotel Reviews
+3.	Text Mining and Sentiment Analysis for Maldives Hotel Reviews
 
 3.1	Introduction
 
