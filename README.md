@@ -25,6 +25,8 @@ The model development is going to be implemented on an interactive way so that w
 
 In hospitality industry, customers send a immense amount of textual information about various hotels on various social media sites. There is a growing concern in using automatic methods such as text mining and sentiment analysis to process large amounts of unstructured reviews data and extract meaningful information and perceptions. As an emerging technology, text mining and sentiment analysis aims to extract meaningful information from many textual documents. Text mining techniques have often been used to analyse large amounts of textual data to automatically extract knowledge, insights, useful patterns or trends.  
 In this case study, I have analysed reviews of pleased and displeased customers by using a text-mining approach. The dataset comprises  21093 online reviews of 104 hotels. I have done the text mining and sentiment analysis for each hotel separately in an interactive way.
+
+
 Keywords:
 hotel reviews; sentiment analysis of reviews; text mining of reviews; 
 
